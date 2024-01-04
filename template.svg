@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   sodipodi:docname="template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1036905"
+     inkscape:cx="560.84565"
+     inkscape:cy="324.81933"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="1440"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:36.4458px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:1"
+       x="25.604284"
+       y="183.87157"
+       id="text113"><tspan
+         sodipodi:role="line"
+         id="tspan111"
+         x="25.604284"
+         y="183.87157"
+         style="stroke-width:1">Certifico que ^$nome$&amp; que trabalha como ^$atuacao$&amp;</tspan><tspan
+         sodipodi:role="line"
+         x="25.604284"
+         y="229.42882"
+         id="tspan165"
+         style="stroke-width:1">realizou o curso de ^$nome_evento$&amp; em ^$data$&amp;.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;word-spacing:0px"
+       x="648.68903"
+       y="175.24731"
+       id="text169"><tspan
+         sodipodi:role="line"
+         id="tspan167"
+         x="648.68903"
+         y="175.24731" /></text>
+  </g>
+</svg>
