@@ -2,7 +2,7 @@
 
 ## uso
 
-```python certifica.py <template svg> <commonevent info> <user data in cvs format>```
+```python certifica.py <template svg> <commonevent info in csv format> <user data in csv format>```
 
 use a flag `-h` para ver a descrição dos argumentos requeridos pelo programause a flag `-g` para obter um exemplo de como os arquivos csv devem ser formatados
 
